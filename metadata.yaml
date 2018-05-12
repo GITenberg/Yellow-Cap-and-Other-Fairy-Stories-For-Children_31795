@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/675
     wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
 description: Yellow-cap.--Rumpty-Dudget.--Calladon.--Theeda.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31795#Yellow-Cap-and-Other-Fairy-Stories-For-Children
 gutenberg_issued: '2010-03-27'
 gutenberg_type: Text
 identifiers:
