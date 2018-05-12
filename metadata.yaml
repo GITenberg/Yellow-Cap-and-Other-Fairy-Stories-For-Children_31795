@@ -1,0 +1,28 @@
+_repo: Yellow-Cap-and-Other-Fairy-Stories-For-Children_31795
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31795-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hawthorne, Julian
+    birthdate: 1846
+    deathdate: 1934
+    gutenberg_agent_id: '675'
+    url: http://www.gutenberg.org/2009/agents/675
+    wikipedia: http://en.wikipedia.org/wiki/Julian_Hawthorne
+description: Yellow-cap.--Rumpty-Dudget.--Calladon.--Theeda.
+gutenberg_issued: '2010-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: Yellow-cap -- Rumpty-Dudget -- Calladon -- Theeda.
+title: Yellow-Cap and Other Fairy-Stories For Children
+url: http://www.gutenberg.org/ebooks/31795
